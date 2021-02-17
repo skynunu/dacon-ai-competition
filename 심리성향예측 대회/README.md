@@ -11,4 +11,4 @@
 #### 4)sample_submission.csv : test의 정답을 기입한 제출용 데이터
 
 ### -링크 : https://dacon.io/competitions/official/235647/overview/
-
+### -내점수(AUC 기준) : 0.68703
