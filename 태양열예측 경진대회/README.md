@@ -12,6 +12,8 @@
 
 -모델은 7일(Day 0~ Day6) 동안의 데이터를 인풋으로 활용하여, 향후 2일(Day7 ~ Day8) 동안의 30분 간격의 발전량(TARGET)을 예측(1일당 48개씩 총 96개 타임스텝에 대한 예측)
 
+### 내점수(Pinball Loss) : 2.37112
+
 ### 링크
 
 https://dacon.io/competitions/official/235680/overview/
