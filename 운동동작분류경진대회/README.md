@@ -5,35 +5,7 @@
 ### 링크 : https://dacon.io/competitions/official/235689/overview/
 ### 내점수(LogLoss) : 1.49488
 ### 데이터 설명
--train_features.csv (1875000, 8)
-
-
-
-id 별 600 time 간 동작 데이터
-id 3125개 x 600 time =1875000 데이터
-
-
-
-
--train_labels.csv (3125, 3)
-
-
-
-id 별 동작과 동작 label(61개)
-
-
--test_features.csv (469200, 8)
-
-
-
-id 별 600 time간 동작 데이터
-id 782개 x 600 time =469200 데이터
-
-
-
-
--sample_submission.csv (782, 62)
-
-
-
-id별 동작을 예측해 작성하는 csv
+-train_features.csv (1875000, 8) : id 별 600 time 간 동작 데이터,  id 3125개 x 600 time =1875000 데이터
+-train_labels.csv (3125, 3) : id 별 동작과 동작 label(61개)
+-test_features.csv (469200, 8) : id 별 600 time간 동작 데이터, id 782개 x 600 time =469200 데이터
+-sample_submission.csv (782, 62) : id별 동작을 예측해 작성하는 csv
